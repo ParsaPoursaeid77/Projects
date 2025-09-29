@@ -1,3 +1,14 @@
+<!-- 
+  Project: CatPhotoApp
+  Description: A beginner HTML project built while following freeCodeCamp.
+  Features:
+    - Organized content using semantic HTML (main, section, footer)
+    - Added links (anchor tags) and images with alt text for accessibility
+    - Used figure and figcaption for captions under images
+    - Demonstrated lists (ordered, unordered) with headings
+    - Practiced emphasis (<em>) and strong (<strong>) tags
+-->
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
